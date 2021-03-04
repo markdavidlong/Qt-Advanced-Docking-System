@@ -383,3 +383,11 @@ FodyWeavers.xsd
 / build
 /Settings.ini
 .vscode/settings.json
+
+#ML Stuff
+demo/
+examples/
+lib/
+src/Makefile*
+
+
